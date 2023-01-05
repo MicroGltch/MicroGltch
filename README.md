@@ -7,7 +7,7 @@
                   ➤⠀L A N G U A G E S                                                                                                                                                                                                      
                   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬                                                                                                                                                                                                      
                   Java  
-                  C/C++                                                                                                                                                                                                     
+                  C/C++                                                                                                                                                                   VB.Net                                  
                   (currently learning more...)
       
                   ➤⠀S⠀P⠀E⠀C⠀S                                                                                                                                                                                                     
