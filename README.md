@@ -9,7 +9,7 @@
                   Java  
                   C/C++                                                                                                                                                                                                     
                   VB.Net                                                                                                                                                                           
-                  (currently learning more...)
+                  (currently learning more...)
       
                   ➤⠀S⠀P⠀E⠀C⠀S                                                                                                                                                                                                     
                   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬                                                                                                                                                                                                      
