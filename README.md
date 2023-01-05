@@ -8,7 +8,7 @@
                   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬                                                                                                                                                                                                      
                   Java  
                   C/C++                                                                                                                                                                                                     
-                  VB.Net
+                  VB.Net                                                                                                                                                                           
                   (currently learning more...)
       
                   ➤⠀S⠀P⠀E⠀C⠀S                                                                                                                                                                                                     
