@@ -8,7 +8,10 @@
                   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬                                                                                                                                                                                                      
                   Java  
                   C/C++                                                                                                                                                                                                     
-                  VB.Net                                                                                                                                                                           
+                  VB.Net
+                  HTML/CSS
+                  JS
+                  PHP
                   (...)
       
                   ➤⠀S⠀P⠀E⠀C⠀S                                                                                                                                                                                                     
