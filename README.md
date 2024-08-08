@@ -10,8 +10,8 @@
                   C/C++                                                                                                                                                                                                     
                   VB.Net
                   HTML/CSS
-                  JS
-                  PHP
+                  JS
+                  PHP
                   (...)
       
                   ➤⠀S⠀P⠀E⠀C⠀S                                                                                                                                                                                                     
